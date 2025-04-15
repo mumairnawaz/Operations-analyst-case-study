@@ -2,8 +2,9 @@
 
 This project presents an end-to-end analysis and solution for a real-world business case focused on **reducing Total Order Time** and **improving delivery efficiency** in a fast-growing foodtech startup. It demonstrates strong data analysis, business insight generation, and dashboarding skills using Excel and Power BI.
 
-![Dashboard Snapshot](https://raw.githubusercontent.com/mumairnawaz/Operations-analyst-case-study/main/doc.JPG)
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mumairnawaz/Operations-analyst-case-study/main/doc.JPG" width="800"/>
+</p>
 
 ## Objective
 
