@@ -1,11 +1,14 @@
-# Operations Analyst Case Study – Delivery Optimization
+# 📦 Operations Analyst Case Study – Delivery Optimization
 
 This project presents an end-to-end analysis and solution for a real-world business case focused on **reducing Total Order Time** and **improving delivery efficiency** in a fast-growing foodtech startup. It demonstrates strong data analysis, business insight generation, and dashboarding skills using Excel and Power BI.
 
-<img src="https:/main/doc.JPG" width="800"/>
+---
 
+<img src="https://raw.githubusercontent.com/mumairnawaz/Operations-analyst-case-study/main/doc.jpg" width="100%"/>
 
-## Objective
+---
+
+## 🎯 Objective
 
 To reduce the **Total Order Time** (from order placement to final delivery) by:
 - Analyzing operational data across 24 merchants
@@ -14,79 +17,59 @@ To reduce the **Total Order Time** (from order placement to final delivery) by:
 
 ---
 
-## Data Sources
+## 📁 Data Sources
 
 - `Operations_Analyst_-_Case_Study_-_Data.xlsx`  
   Includes 2 weeks of order-level data for 24 merchants and delivery logs by vehicle type.
 
 ---
 
-## Key Deliverables
+## ✅ Key Deliverables
 
 | Deliverable | Description |
 |------------|-------------|
-| ✅ Power BI Dashboard | Visualizes key KPIs for merchant performance, vehicle efficiency, and delivery bottlenecks |
-| ✅ Case Study Report | Full presentation with executive summary, insights, and recommendations |
-| ✅ Recommendations | Action plan divided into short-term and long-term improvements |
-| ✅ Cleaned Dataset | Excel workbook used for analysis and charting |
+| 📊 Power BI Dashboard | Visualizes key KPIs for merchant and logistics performance |
+| 📝 Case Study Report | A full presentation including executive summary, insights, and recommendations |
+| 📈 Prescriptive Plan | Action plan with short-term and long-term fixes |
+| 📂 Cleaned Dataset | Excel analysis with charts and pivot summaries |
 
 ---
 
+## 📌 Key Insights
+
+- **Top Performers**: Merchant 13, 24, and 1 had the lowest order times.
+- **Underperformers**: Merchant 19, 20, and 14 had high delays and need operational audit.
+- **Vehicle Efficiency**: Bikes outperformed cars in delivery time, cost, and success rate.
+- **System Bottleneck**: On-time delivery rate was only 43%, requiring process optimization.
 
 ---
 
-## Insights Extracted
+## 🛠 Tools Used
 
--  **Top Merchants:** Merchant 13, 24, and 1 have fastest order processing.
--  **Slowest Merchants:** Merchant 19, 20, and 14 have significant delays.
--  **Vehicle Performance:** Bikes are faster and more cost-effective than cars.
--  **System-Wide Bottleneck:** On-time delivery rate is only 43% – needs optimization.
-
----
-
-##  Tools Used
-
-- **Microsoft Excel** – KPI calculations, pivot tables, and preprocessing
-- **Power BI** – Interactive dashboards and visuals
-- **GitHub** – Documentation and sharing
+- Microsoft Excel
+- Power BI
+- GitHub
 
 ---
 
-## Recommendations (Snapshot)
+## 📅 Implementation Plan
 
-| Area | Problem | Recommendation |
-|------|---------|----------------|
-| Merchants | High order time | Audit underperformers, replicate fast merchants |
-| Logistics | Slow delivery (cars) | Prioritize bikes for short distances |
-| System | Pickup delays | Add real-time alerts for drivers |
-| Process | KPI visibility | Monthly reports and dashboard automation |
-
----
-
-## Implementation Plan
-
-**Short-Term (0–3 Months)**:
-- Audit slow-performing merchants
-- Share merchant performance dashboards monthly
+**Short-Term (0–3 Months):**
+- Audit slow-performing merchants (Merchant 19, 20, 14)
+- Share monthly KPI reports
 - Prioritize bikes for short deliveries
-- Enable driver alerts for pickup readiness
+- Enable real-time pickup alerts
 
-**Long-Term (3–6+ Months)**:
-- Route optimization for cars
-- Automate KPI tracking dashboards
-- Standardize high-performing practices
-- Pilot dynamic dispatch system
-
----
-
-## ✨ Outcome
-
-A structured, data-backed plan to improve speed, reliability, and cost-efficiency of delivery operations using real data and business logic.
+**Long-Term (3–6+ Months):**
+- Optimize routing for cars
+- Automate merchant performance dashboards
+- Standardize best practices
+- Pilot dispatch coordination improvements
 
 ---
 
-## Contact
+## 🙌 Result
 
-For collaboration, feedback, or consulting inquiries, feel free to reach out via GitHub profile.
+This case study outlines a clear, data-driven path to improve operational speed, reduce cost per delivery, and enhance overall customer experience — backed by actual delivery metrics and dashboards.
 
 
