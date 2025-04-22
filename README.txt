@@ -4,7 +4,6 @@ This project presents an end-to-end analysis and solution for a real-world busin
 
 ---
 
-<img src="https://raw.githubusercontent.com/mumairnawaz/Operations-analyst-case-study/main/doc.jpg" width="100%"/>
 
 ---
 
