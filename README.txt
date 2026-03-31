@@ -4,139 +4,99 @@
 
 ## Table of Contents
 
-> - [Background](#background)
-> - [Executive Summary](#executive-summary)
-> - [Business Insights](#business-insights)
->   - [Delivery Time & Order Flow Analysis](#delivery-time--order-flow-analysis)
->   - [Merchant Performance Variability](#merchant-performance-variability)
->   - [Vehicle Efficiency & Delivery Optimization](#vehicle-efficiency--delivery-optimization)
->   - [Operational Bottlenecks & SLA Gaps](#operational-bottlenecks--sla-gaps)
-> - [Strategic Recommendations](#strategic-recommendations)
->   - [Improve Merchant-Level Operations](#improve-merchant-level-operations)
->   - [Optimize Delivery Fleet Utilization](#optimize-delivery-fleet-utilization)
->   - [Enhance Real-Time Monitoring & Alerts](#enhance-real-time-monitoring--alerts)
->   - [Standardize Performance & Scale Best Practices](#standardize-performance--scale-best-practices)
+- [Background](#background)
+- [Executive Summary](#executive-summary)
+- [Business Insights](#business-insights)
+  - [Delivery Time & Order Flow Analysis](#delivery-time--order-flow-analysis)
+  - [Merchant Performance Variability](#merchant-performance-variability)
+  - [Vehicle Efficiency & Delivery Optimization](#vehicle-efficiency--delivery-optimization)
+  - [Operational Bottlenecks & SLA Gaps](#operational-bottlenecks--sla-gaps)
+- [Strategic Recommendations](#strategic-recommendations)
+  - [Improve Merchant-Level Operations](#improve-merchant-level-operations)
+  - [Optimize Delivery Fleet Utilization](#optimize-delivery-fleet-utilization)
+  - [Enhance Real-Time Monitoring & Alerts](#enhance-real-time-monitoring--alerts)
+  - [Standardize Performance & Scale Best Practices](#standardize-performance--scale-best-practices)
 
 ---
-
-<table width="90%" align="center">
-<tr><td>
 
 ## Background
 
-A fast-growing foodtech startup faced increasing challenges in maintaining delivery efficiency as order volumes scaled. Despite operational expansion, total order time remained high and inconsistent across merchants and delivery methods. This case study investigates delays across the delivery lifecycle, identifies key inefficiencies in merchant and logistics performance, and provides actionable recommendations to improve operational speed, reliability, and customer experience.
-
-</td></tr>
-</table>
+A fast-growing foodtech startup faced challenges in maintaining delivery efficiency as order volumes increased. Total order time remained high and inconsistent across merchants and delivery methods. This analysis identifies operational inefficiencies and provides data-driven recommendations to improve delivery performance and customer experience.
 
 ---
-
-<table width="90%" align="center">
-<tr><td>
 
 ## Executive Summary
 
-This analysis evaluates delivery operations across multiple merchants and vehicle types to understand the key drivers of inefficiency in total order time. The findings reveal that delivery delays are primarily driven by inconsistent merchant performance, suboptimal fleet utilization, and lack of real-time operational coordination. High-performing merchants demonstrated significantly lower delivery times, while underperforming merchants contributed disproportionately to delays. Additionally, bikes consistently outperformed cars in delivery speed and cost efficiency, indicating a misalignment in fleet allocation strategies. The overall on-time delivery rate remained critically low at 43%, highlighting systemic inefficiencies in the process. These findings suggest that operational delays are not isolated issues but structural inefficiencies requiring coordinated improvements across merchant operations, delivery strategy, and real-time monitoring systems.
-
-</td></tr>
-</table>
+This analysis evaluates delivery operations across multiple merchants and vehicle types to identify the root causes of inefficiency. The findings show that delays are primarily driven by inconsistent merchant performance, inefficient fleet utilization, and lack of real-time coordination. High-performing merchants maintain low delivery times, while underperforming merchants create system bottlenecks. Bikes outperform cars in delivery speed and cost efficiency, indicating suboptimal fleet allocation. The on-time delivery rate remains critically low at 43%, highlighting structural inefficiencies that require coordinated improvements.
 
 ---
 
-# Business Insights
+## Business Insights
 
-<table width="90%" align="center">
-<tr><td>
+### Delivery Time & Order Flow Analysis
 
-## Delivery Time & Order Flow Analysis
+Delivery performance varies significantly across merchants, with high inconsistency in total order time.
 
-Delivery performance varies significantly across merchants, with total order time showing high inconsistency. While some merchants maintain efficient order processing and delivery cycles, others introduce delays that impact overall system performance.
-
-**Business implication:**
-Delivery inefficiency is driven by process variability rather than isolated issues, requiring standardized operational benchmarks.
+**Business implication:**  
+Delivery inefficiency is driven by process variability rather than isolated issues.
 
 ---
 
-## Merchant Performance Variability
+### Merchant Performance Variability
 
-Merchant-level analysis highlights a clear gap between top-performing and underperforming merchants. Merchants such as 13, 24, and 1 demonstrate efficient operations, while merchants 19, 20, and 14 show consistently higher delays.
+Significant gaps exist between top-performing and underperforming merchants.
 
-**Business implication:**
-Underperforming merchants create bottlenecks that affect system-wide delivery performance and customer satisfaction.
-
----
-
-## Vehicle Efficiency & Delivery Optimization
-
-Delivery performance varies by vehicle type, with bikes outperforming cars in delivery speed, cost efficiency, and success rate. This indicates inefficiencies in fleet allocation and routing strategies.
-
-**Business implication:**
-Optimizing fleet utilization can significantly improve delivery efficiency and reduce operational costs.
+**Business implication:**  
+Underperforming merchants create bottlenecks that impact overall efficiency.
 
 ---
 
-## Operational Bottlenecks & SLA Gaps
+### Vehicle Efficiency & Delivery Optimization
 
-The overall on-time delivery rate remains low at approximately 43%, indicating significant delays across the system. Lack of real-time coordination and delayed pickups contribute to operational inefficiencies.
+Bikes outperform cars in delivery speed, cost, and efficiency.
 
-**Business implication:**
-Operational inefficiencies are systemic and require process-level improvements rather than isolated fixes.
-
----
-
-</td></tr>
-</table>
+**Business implication:**  
+Fleet allocation strategy needs optimization.
 
 ---
 
-# Strategic Recommendations
+### Operational Bottlenecks & SLA Gaps
 
-<table width="90%" align="center">
-<tr><td>
+On-time delivery rate is only 43%, indicating major inefficiencies.
 
-## Improve Merchant-Level Operations
-
-Operational audits should be conducted for underperforming merchants to identify inefficiencies in order preparation and dispatch processes.
-
-**Business Actions To Take:**
-- Identify and benchmark top-performing merchants  
-- Implement standardized preparation workflows  
-- Monitor merchant KPIs regularly  
+**Business implication:**  
+System-wide improvements are required.
 
 ---
 
-## Optimize Delivery Fleet Utilization
+## Strategic Recommendations
 
-Fleet allocation should be optimized based on delivery efficiency, prioritizing faster and more cost-effective delivery methods.
+### Improve Merchant-Level Operations
 
-**Business Actions To Take:**
-- Prioritize bikes for short-distance deliveries  
-- Optimize routing strategies for cars  
-- Balance fleet utilization dynamically  
+- Audit underperforming merchants  
+- Standardize workflows  
+- Track performance KPIs  
 
 ---
 
-## Enhance Real-Time Monitoring & Alerts
+### Optimize Delivery Fleet Utilization
 
-Real-time tracking and alert systems should be implemented to reduce delays and improve coordination.
+- Prioritize bikes for short distances  
+- Optimize routing for cars  
+- Balance fleet dynamically  
 
-**Business Actions To Take:**
-- Enable real-time pickup alerts  
-- Monitor delays proactively  
+---
+
+### Enhance Real-Time Monitoring & Alerts
+
+- Implement real-time pickup alerts  
+- Track delays proactively  
 - Improve dispatch coordination  
 
 ---
 
-## Standardize Performance & Scale Best Practices
+### Standardize Performance & Scale Best Practices
 
-Best practices from high-performing merchants should be standardized and scaled across the network.
-
-**Business Actions To Take:**
-- Share performance benchmarks  
-- Automate reporting dashboards  
-- Implement continuous improvement processes  
-
----
-
-</td></tr>
-</table>
+- Share benchmarks  
+- Automate dashboards  
+- Scale high-performing practices  
