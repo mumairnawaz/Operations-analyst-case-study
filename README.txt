@@ -2,7 +2,7 @@
 
 ---
 
-## Table of Contents
+# Table of Contents
 
 - [Background](#background)
 - [Executive Summary](#executive-summary)
@@ -19,10 +19,16 @@
 
 ---
 
+<table width="90%" align="center">
+<tr><td>
+
 
 ## Background
 
 A fast-growing foodtech startup faced challenges in maintaining delivery efficiency as order volumes increased. Total order time remained high and inconsistent across merchants and delivery methods. This analysis identifies operational inefficiencies and provides data-driven recommendations to improve delivery performance and customer experience.
+
+</td></tr>
+</table>
 
 ---
 
