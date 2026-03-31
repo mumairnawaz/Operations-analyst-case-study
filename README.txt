@@ -1,6 +1,5 @@
-# operations-delivery-optimization
+# Operations delivery optimization
 
----
 
 # Table of Contents
 
